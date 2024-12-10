@@ -1,0 +1,79 @@
+Here are the grocery items sorted into categories with their respective sub-categories:
+
+**Produce (Alphabetical Order):**  
+
+* Vegetables:   
+	+ Bell Peppers    
+	+ Broccoli     
+	+ Carrots        
+	+ Lettuce         
+	+ Mushrooms       
+	+ Onions           
+	+ Potatoes          
+	+ Spinach            
+	+ Tomatoes              
+  
+* Fruits:   
+	+ Apples             
+	+ Bananas               
+	+ Strawberries    
+
+**Dairy (Alphabetical Order):** 
+
+* Milk        
+* Yogurt       
+
+**Meat/Seafood (Including Sub-Categories Meat and Seafood, Alphabetically Sorted Within Each):**  
+	+ Chicken Breast     
+	+ Ground Beef          
+	+ Salmon                   
+	+ Shrimp              
+	+ Sausages               
+
+* Eggs        
+
+**Bakery (Alphabetical Order):** 
+
+* Bread            
+
+**Beverages:**  
+
+* Coffee             
+* Orange Juice     
+* Tea                   
+* Sugar              
+
+(Note: Milk can also be considered a liquid and often comes under the same category as beverages, but for clarity with non-dairy items it's separated here.)  
+
+**Pantry Items (Non-Perishables Alphabetical Order):** 
+* Cereal          
+* Flour            
+* Jam              
+* Olive Oil        
+* Pasta             
+* Rice               
+* Sugar                   
+*(Note: Bread is a baked product, but for the purpose of this categorization it's listed separately under Bakery.)  
+
+**Refrs (Alphabetical Order):** 
+	+ Almonds       
+	+ Granola Bars      
+	+ Honey              
+	+ Peanut Butter     
+
+* Condiments/Spread:   
+	+ Jam             
+    
+*(Note for non-food items not present in the list, I included Toilet Paper and Dish Soap under Non-Perishables but typically these would be found outside of a standard grocery section.)  
+
+**Miscellaneous (Alphabetical Order):*   
+	+ Chocolate      
+    
+*(Note: Ice Cream can sometimes fit in both Freezer and Dairy categories, I've listed it here as per the provided instructions to categorize into Produce/Dairy. However typically ice cream is considered a dairy product.)  
+* Toilet Paper (Assuming this refers to paper-based products for cleaning purposes)   
+	+ Dish Soap       
+    
+*(Note: Laundry detergent and shampoo would not be classified under any of these common grocery categories, as they are household items typically found in the laundry or bathroom section.)  
+* Toothpaste (Assuming this refers to personal hygiene products outside a standard supermarket)   
+    
+*(Note: For Chips and Soda which can be considered snack foods but not strictly grocery, they might sometimes find themselves in the Snacks category or as part of Disposable Items depending on how broadly one is defining this list.)
